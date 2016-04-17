@@ -1,4 +1,4 @@
-# aspnet-cache-memory-vs
+# aspnet-cache-redis-vs
 
 Caching with ASP.NET Core, accompanying the [ASP.NET Core Caching](https://jeffogata.com/asp-net-core-caching/) blog post.
 
